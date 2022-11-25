@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Java & DSA.
 - I'm having knowledge in HTML,CSS,JAVASCRIPT(Node Js), Data Science with Python.
 - 💞️ I’m looking to collaborate on Project's which will help me out to improve my skills.
-- 📫 How to reach me...
+- 📫 How to reach me... chopdarsweta@gmail.com
 
 <!---
 Sweta2501/Sweta2501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
