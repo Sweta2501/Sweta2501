@@ -1,7 +1,6 @@
 - [![@sweta25's Holopin board](https://holopin.me/sweta25)](https://holopin.io/@sweta25)
 - 👋 Hi, I’m Sweta.
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning Java & DSA.
 - I'm having knowledge in HTML,CSS,JAVASCRIPT(Node Js), Data Science with Python.
 - 💞️ I’m looking to collaborate on Project's which will help me out to improve my skills.
 - 📫 How to reach me... chopdarsweta@gmail.com
